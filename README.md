@@ -63,7 +63,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
 <img width="12" />
-<img src="[https://jwt.io/img/logo.svg](https://jwt.io/img/logo.svg)" height="40" alt="JWT logo" />
+<img src="https://jwt.io/img/logo.svg" height="40" alt="JWT logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL logo" />
 <img width="12" />
