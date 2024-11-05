@@ -85,7 +85,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
 <img width="12" />
-<img src="https://github.com/user-attachments/assets/66a4c12c-0b89-4e76-904e-c03fe719d625" height="40" alt="Clerk logo" />
+<img src="https://github.com/user-attachments/assets/45783e0c-1dab-48c2-a44b-f24f03df94c5" height="40" alt="Clerk logo" />
 </div>
 
 ###
