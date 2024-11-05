@@ -63,7 +63,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
 <img width="12" />
-<img src="https://jwt.io/img/logo.svg" height="40" alt="JWT logo" />
+<img src="https://jwt.io/img/logo.svg" height="40" alt="JWT logo" height="40"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL logo" />
 <img width="12" />
@@ -81,7 +81,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
 <img width="12" />
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thunder/thunder-original.svg](https://avatars.githubusercontent.com/u/164544218?s=200&v=4)" height="40" alt="Thunder Client logo" />
+<img src="https://avatars.githubusercontent.com/u/164544218?s=200&v=4" height="40" alt="Thunder Client logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
 <img width="12" />
