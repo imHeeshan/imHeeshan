@@ -37,9 +37,9 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android Studio logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agora/agora-plain.svg" height="40" alt="Agora.io SDK logo" />
+<img src="https://cdn.prod.website-files.com/660affa848e8af81bdd03909/66ab7f671fb90c022fb7f1dc_Agora%20Logo%20Crisp-p-500.png" height="40" alt="Agora.io SDK logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" alt="Zustand logo" />
+<img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
 <img width="12" />
@@ -63,7 +63,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="40" alt="JWT logo" />
+<img src="[https://jwt.io/img/logo.svg](https://jwt.io/img/logo.svg)" height="40" alt="JWT logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL logo" />
 <img width="12" />
@@ -71,7 +71,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zoho/zoho-original.svg" height="40" alt="Zoho Sprints logo" />
+<img src="https://flow-in-public.nimbuspop.com/flow-apps/zoho_sprints.png" height="40" alt="Zoho Sprints logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 <img width="12" />
@@ -81,11 +81,11 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thunder/thunder-original.svg" height="40" alt="Thunder Client logo" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thunder/thunder-original.svg](https://avatars.githubusercontent.com/u/164544218?s=200&v=4)" height="40" alt="Thunder Client logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clerk/clerk-original.svg" height="40" alt="Clerk logo" />
+<img src="![clerk-logo-dark-accent](https://github.com/user-attachments/assets/66a4c12c-0b89-4e76-904e-c03fe719d625)" height="40" alt="Clerk logo" />
 </div>
 
 ###
