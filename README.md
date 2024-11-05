@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧞‍♂️ Software Developer<br>📱 React Native dev<br>👨🏽‍💻 Web app dev<br>🚀 Mobile dev enthusiast</p>
+<p align="left">🧞‍♂️ Software Developer<br>📱 Mob dev<br>👨🏽‍💻 Web app dev<br>🚀 Mobile dev enthusiast</p>
 
 ###
 
